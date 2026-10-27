@@ -1,0 +1,15 @@
+# Build output
+target/
+
+# Reports generated on every run (one sample report is kept in sample-report/)
+test-output/
+screenshots/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
